@@ -1,0 +1,37 @@
+210943(Muhammad Awab)
+210940(Muhammad Taha Shayan)
+210904 (Muhammad Ahad)
+
+
+c++ car game project 
+
+constructs:
+1)Array
+2)structures
+3)Functions
+4)oop(object oriented programing)
+
+HeaderFiles:
+#include<iostream>
+#include<conio.h>(is used to getch,khbit function is used)
+#include <windows.h>(is used to set cursor position and set the coordinates gotoxy)
+#include<mmsystem.h>(is used to add music in project)
+
+Instructions
+----------------
+ Avoid Cars by moving left or right.
+
+ Press 'a' to move left
+ Press 'd' to move right
+ Press 'escape' to exit
+
+
+                                                   --------------------------
+                                                   |        Car Game        |
+                                                   --------------------------
+
+                                                  1. Play
+                                                  2. Instructions
+                                                  3. Quit
+
+This car game project is run only in codeBlock,DevC++.Not run in Vscode and online compiler.

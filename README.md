@@ -7,7 +7,7 @@ GPT-3Explorer is a Python suite for integrating OpenAI's GPT-3, providing interf
 You can install GPT-3Explorer via pip:
 
 ```bash
-pip install GPT-3Explorer
+pip install gpt-3-explorer
 
 Make sure you have Python 3.6 or later installed.
 ```

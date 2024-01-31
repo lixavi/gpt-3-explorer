@@ -1,6 +1,6 @@
 # GPT-3-Explorer
 
-GPT-3Explorer is a Python suite for integrating OpenAI's GPT-3, providing interfaces for text completion, translation, and more using GPT-3's powerful language model.
+GPT-3-Explorer is a Python suite for integrating OpenAI's GPT-3, providing interfaces for text completion, translation, and more using GPT-3's powerful language model.
 
 ## Installation
 

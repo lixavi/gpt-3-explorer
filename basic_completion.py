@@ -17,6 +17,7 @@ def main():
     if not gpt3_instance:
         print("Failed to authenticate with OpenAI API. Please check your API key.")
         return
+        
 
     # Initialize Completion object
     completion = Completion(gpt3_instance)
